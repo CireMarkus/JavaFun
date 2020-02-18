@@ -12,7 +12,7 @@ public class PeachBoxCounter_do_While{
 			
 
 
-			numberOfPeaches = numberPicked;
+			numberOfPeaches += numberPicked;
 
 			numberPicked = 0;
 
