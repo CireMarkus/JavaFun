@@ -24,7 +24,7 @@ public class Animal{
 		this.name = name;
 	}
 
-	public void setFamil(String family){
+	public void setFamily(String family){
 		this.family = family;
 	}
 
