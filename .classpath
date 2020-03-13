@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Animals/src"/>
+	<classpathentry kind="src" path="Chapter1/Activity 1"/>
+	<classpathentry kind="src" path="Chapter1/Activity 2"/>
+	<classpathentry kind="src" path="Chapter1/Activity 3"/>
+	<classpathentry kind="src" path="Chapter1/Examples"/>
+	<classpathentry kind="src" path="Chapter1/Exercise 2"/>
+	<classpathentry kind="src" path="Chapter1/Exercise3"/>
+	<classpathentry kind="src" path="Chapter2/Activity4"/>
+	<classpathentry kind="src" path="Chapter2/Activity5"/>
+	<classpathentry kind="src" path="Chapter2/Exercise5"/>
+	<classpathentry kind="src" path="Chapter3"/>
+	<classpathentry kind="src" path="Chapter4/src/Calculator"/>
+	<classpathentry kind="src" path="Chapter4/src/Person"/>
+	<classpathentry kind="src" path="Chapter5/src"/>
+	<classpathentry kind="output" path="Animals/bin"/>
+</classpath>
